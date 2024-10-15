@@ -1,16 +1,15 @@
+class Demo:
 
-class Demo():
-
-    class_parameter = 'top-level class parameter'
-    name = 'Default'
+    class_parameter = "top-level class parameter"
+    name = "Default"
 
     # Constructor
     def __init__(self):
-        self.name = 'Demo'
+        self.name = "Demo"
 
     # Methods
     def hello_world(self):
-        return 'Hello World'
+        return "Hello World"
 
     def hello_lib(self):
-        return f'Hello from {self.name}'
+        return f"Bye {self.name}"
