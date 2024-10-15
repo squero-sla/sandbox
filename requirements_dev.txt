@@ -1,0 +1,14 @@
+pip
+wheel
+pytest
+pytest-runner
+pytest-benchmark
+pylint
+#flake8
+# bump2version
+# watchdog
+# tox
+# coverage
+# Sphinx
+# twine
+# Click
